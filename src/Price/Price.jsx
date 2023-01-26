@@ -6,7 +6,7 @@ import Footer from '../Footer'
 
 const Price = () => {
   return (
-    <div className='body_about>
+    <div style={{overflowX: "hidden"}}>
       <NavBar />
       <Header />
       <br />
