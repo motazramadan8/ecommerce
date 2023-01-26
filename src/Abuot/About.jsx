@@ -6,7 +6,7 @@ import Team from './Team'
 
 const About = () => {
   return (
-    <div>
+    <div className='body_about>
         <NavBar />
         <Header />
         <br />
